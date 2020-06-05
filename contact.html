@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Home page</title>
+		<meta charset = "Utf-8">
+		<meta name author = "Anya Martins U">
+		<link href ="">
+		<link rel="stylesheet" href="assets/css/style.css">
+	</head>
+	<body>
+		<header>
+			<img src ="assets/images/Koala.jpg" width = "50px" height="40px">
+			<nav>
+				<a href = "index.html">Home</a>
+				<a href = "about.html">About</a>
+				<a href = "service.html">Service</a>
+				<a href = "contact.html">Contact</a>
+			</nav>
+		</header>
+		
+		<main>
+		<h1> Contact Us </h1>
+			
+			<section>
+				<form name="myForm" method="post" action="" onsubmit="return validateForm()">
+					<div>
+						<label for = "fname">First name</label>
+					</div>
+					<div>
+						<input type="text" name="fname" id="fname" title="click to write">
+					</div>
+					<div>
+						<label for="sname">Second Name</label>
+					</div>
+					<div>
+						<input type="text" name="sname" id="sname" title="click to write" >
+					</div>
+					<button name="submit">Submit</button>
+				</form>
+			</section>
+			<div id="myBar"> </div>
+			
+		</main>
+		<script>
+			function move() {
+			  var elem = document.getElementById("myBar");
+			  var width = 0;
+			  var id = setInterval(frame, 10);
+			  function frame() {
+				if (width == 100) {
+				  clearInterval(id);
+				} else {
+				  width++;
+				  elem.style.width = width + '%';
+				}
+			  }
+			}
+			
+			move();
+			
+			let bio = {
+				name:"Uchenna", address:"Aba", age:35, 
+//				fullBio:function(){
+//				return this.name + this.address + this.age
+//			}
+			}
+			console.dir(document.body)
+//			console.dir(bio.fullBio());
+			
+		</script>
+		<footer>
+			<p> &copy 2019 </p>
+		</footer>
+	</body>
+</html>
