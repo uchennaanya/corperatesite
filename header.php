@@ -8,7 +8,7 @@
 	<link href ="assets/css/style.css" rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/animate.css">
 </head>
-<nav class="navbar navbar-expand-md bg-light navbar-light nav-color fixed-top" id="myHeader">
+<nav class="navbar navbar-expand-md bg-dark navbar-dark nav-color fixed-top" id="myHeader">
   <!-- Brand -->
   <a class="navbar-brand nav-text" href="index.php">
 	  <img src="assets/images/logoss.png" class="image" />
@@ -23,7 +23,7 @@
   <div class="collapse navbar-collapse " id="collapsibleNavbar">
 	<ul class="navbar-nav ml-auto">
 		<li class="nav-item">
-		<a class="nav-link nav-text" href="index.php"><i class="fa fa-home" ></i>Home</a>
+		<a class="nav-link nav-text" href="index.php"><i class="fa fa-home" ></i> Home</a>
 	  </li>
 	  <li class="nav-item">
 		<a class="nav-link nav-text" href="service.php">Projects</a>
