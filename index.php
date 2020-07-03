@@ -7,15 +7,15 @@
 	</div>
 
 	<div class="container">
-		
+
 		<div class="row"><div class="col-md-12" style="height:30px"></div></div>
 
 		<div class="row">
-			<div class="col-md-4"> 
+			<div class="col-md-4">
 				<div class="vmo wow zoomIn">
 					<p><i class="fa fa-eye"></i></p>
 					Our vision is to be the eye and the leg of the underserved (The Unreached) kids in the rural/sub part of the cities.
-				</div> 
+				</div>
 			</div>
 			<div class="col-md-4">
 				<div class="vmo wow zoomIn">
@@ -23,11 +23,11 @@
 					Our goal is to expose school kids/students early enough to computer education working directly with schools ICT teachers
 				</div>
 			</div>
-			<div class="col-md-4"> 
+			<div class="col-md-4">
 				<div class="vmo wow zoomIn">
 					<p> <i class="fa fa-subway blue-text"></i></p>
 					We're on a mission to derive home digital inclusiveness to rural and the underserved kids/teens.
-				</div> 
+				</div>
 			</div>
 		</div>
 		<hr>
@@ -76,9 +76,9 @@
 				<div class="col-md-5">
 					<p class="display-4 text-light fontvolunteer wow zoomIn">
 						Call for volunteers
-					</p> 
+					</p>
 				</div>
-				<div class="col-md-5"> 
+				<div class="col-md-5">
 					<p class="fonts wow zoomIn">
 						Are you passionate about making the world a better place, join us lets do it together. <a href="#">SignUp</a>
 					</p>

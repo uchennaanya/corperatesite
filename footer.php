@@ -23,17 +23,12 @@
 <div class="container-fluid ">
 	<div class="row foot">
 		<div class="col-md-1" style="height:100px">  </div>
-<!--
-		<div class="col-md-3" style="height:100px">  </div>
-		<div class="col-md-3" style="height:100px">  </div>
-		<div class="col-md-3" style="height:100px">  </div>
--->
 	</div>
 </div>
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-12 footer">
-			<p>&copy 2019 The Unreached</p>
+			<p> &copy <?php echo date("Y"); ?></p>
 		</div>
 	</div>
 </div>

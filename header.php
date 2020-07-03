@@ -1,14 +1,14 @@
 <head>
 	<title>Home page</title>
 	<meta charset = "Utf-8">
-	<meta name author = "Anya Martins U">
+	<meta name=" author" content="Anya Martins Uchenna">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="assets/font-awesome/css/font-awesome.css">
 	<link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link href ="assets/css/style.css" rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/animate.css">
 </head>
-<nav class="navbar navbar-expand-md bg-dark navbar-dark nav-color fixed-top" id="myHeader">
+<nav class="navbar navbar-expand-md bg-light navbar-light nav-color fixed-top" id="myHeader">
   <!-- Brand -->
   <a class="navbar-brand nav-text" href="index.php">
 	  <img src="assets/images/logoss.png" class="image" />
