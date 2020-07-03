@@ -8,7 +8,7 @@
 		return $txt;
 	}
 	
-	require_once("server.php");
+	// require_once("server.php");
 	
 	$errfname = $errmail = $errmessage = $errsname =$mailexsist="";
 	if (ISSET($_POST['save'])) {
